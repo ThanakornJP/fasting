@@ -3,6 +3,9 @@
 2. I need God to lead my trading career 
 3. I need to know what are my sphere of influence
 
+
+unbelief - keep you out
+
 # Devotional plan
 `Matt 21:22`, whatever you ask in prayer you will receive if you have faith
 
