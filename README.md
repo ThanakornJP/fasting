@@ -3,8 +3,17 @@
 2. I need God to lead my trading career 
 3. I need to know what are my sphere of influence
 
+unbelief - keep you out --> must be conquered
+intermidation - Spirit will lead us through
+grasshopper - see how you see yourself determine how enemy sees you
+--> you got a son of man named Jesus - he supplies, delivers
 
-unbelief - keep you out
+treasure words and grow your prophecies
+use prophecies to go in war 
+speal forth His promises and abundantly future state
+
+faith is more precious than gold
+daily dependant upon God
 
 # Devotional plan
 `Matt 21:22`, whatever you ask in prayer you will receive if you have faith
