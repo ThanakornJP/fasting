@@ -39,7 +39,7 @@ daily dependant upon God
 
 `1 Corinthians 7:9`, But if they cannot control themselves, they should marry,u for it is better to marry than to burn with passion
 
-`Genesis 24:12-20`, Then he prayed, “Lord, God of my master Abraham, make me successful today, and show kindness to my master Abraham. 13 See, I am standing beside this spring, and the daughters of the townspeople are coming out to draw water. 14 May it be that when I say to a young woman, ‘Please let down your jar that I may have a drink,’ and she says, ‘Drink, and I’ll water your camels too’—let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.”
+`Genesis 24:12-20`, Then he prayed, “Lord, God of my master Abraham, make me successful today, and show kindness to my master Abraham.  See, I am standing beside this spring, and the daughters of the townspeople are coming out to draw water.  May it be that when I say to a young woman, ‘Please let down your jar that I may have a drink,’ and she says, ‘Drink, and I’ll water your camels too’—let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.”
 
 `Genesis 24:67`, Then Isaac brought her into his mother Sarah’s tent; and he took Rebekah and she became his wife, and he loved her. So Isaac was comforted after his mother’s death.
 

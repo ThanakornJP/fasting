@@ -40,7 +40,24 @@
             "parent": "crucify dad's curses on the cross and pray to open dad's heart to God."
         }
     },
-
+    "10-NOV-21":{
+        "morning": {
+            "marriage": "Bless are those who confesses to the Lord until trangression was forgiven, until sin aren't covered, until no deceit is found in your spirit",
+            "career": "when you are surrounded by trouble, worship Him til get instructed and counseled, then you must take action from what is revealed to you",
+            "calling": "",
+            "prophecy": "God weakens me because He want me to realise humbleness. He can't lift me up if I have proud of heart. I will never thank Him for victories and deliverances if I still have my own fortress. This is why I have been keeping praying 'break my walls'. He's gonna reconstruct me"
+        },
+        "noon": {
+            "marriage": "purify spirit of prostitutes, spirit of lust; confess my past sin towards God. cut all promises I made with ex-girlfrined",
+            "career": "daily bread and just enough knowledge and wisdom to do my stuffs each day",
+            "calling": ""
+        },
+        "night":{
+            "marriage": "Lord, examine my heart if I love everything Tuck is including her appearance. For I feel I love her even in the shade.",
+            "career": "Thank you Lord that Your yole is easy and my burden is light",
+            "calling": "For the gift of prophecy, I know what to do according to what Lord leads me. Learn from Samuel",
+        }
+    },
 
     `Matt 21:22`, whatever you ask in prayer you will receive if you have faith
     `Matt 6:33`, Seek first his kingdom and his righteousness, and all these things will be given to you as well
@@ -51,13 +68,66 @@
     `Proverbs 16:9`, In their hearts humans plan their course, but the Lord establishes their steps.
     
     `Isaiah 8:11`,The Lord has given me a strong warning not to think like everyone else does - Father, thank You for Your unique call on my life. I dedicate my time, talent, and treasure to You. Use me for Your Kingdom and glory. In Jesus’ name. Amen.
-    
+
+    "11-NOV-21":{
+        "morning": {
+            "prayer": "Lord, glory is yours, hallow be your name, your kingdom comes, your will be done, for you deserve all the glory, Now, Lord, I invite and welcome you to be my everything; search my heart Lord for what sin and weakness I hid from You; I wanna consecrate myself. I don't wanna approach with my sinful nature, give me daily bread and protect me from evils, trials, temptation and those lies. my glorious Lord; for yours is the power, kingdom, and glory forever, Amen",
+            "marriage": "Lord, tell me if Tuck will be really everything to me, if she will be my heaven on earth where I see You through her",
+            "career": "look for what is greatly stable (haughty operation) for they may fail, then you may find opportunities",
+            "calling": "Lord, place and lead me for what I will bring You glory by my calling and my identity"
+        },
+        "noon": {
+            "marriage": "praying to see if I can see You through her; protection over our relationship",
+            "career": "praying for next step on my course; cut me loose from earthly masters including charts",
+            "calling": "praying to get in depth of my callings and identities"
+        },
+        "night":{
+            "marriage": "praying to see if I can see You through her; protection over our relationship",
+            "career": "praying for next step on my course; cut me loose from earthly masters including charts",
+            "calling": "i wanna know more about how I can be more of myself and give your more honor",
+        }
+    },
+    "12-NOV-21":{
+        "morning": {
+            "marriage": "protect us and our relationship, Lord",
+            "career": "praying for next step on my course; cut me loose from earthly masters including charts",
+            "calling": "Father, lead me in your ways, Lord"
+        },
+        "noon": {
+             "marriage": "protect us and our relationship, Lord",
+            "career": "i don't wanna serve them God. Let me, Lord. Father, establish my steps",
+            "calling": "Thank you Lord for gaining me more understanding on your scriptures."
+        },
+        "night":{
+            "marriage": "overall prayers",
+            "career": "overall prayers",
+            "calling": "overall prayers",
+        }
+    },
     "10-NOV-21":{
         "morning": {
-            "marriage": "Bless are those who confesses to the Lord until trangression was forgiven, until sin aren't covered, until no deceit is found in your spirit",
-            "career": "when you are surrounded by trouble, worship Him til get instructed and counseled, then you must take action from what is revealed to you",
-            "calling": "",
-            "prophecy": "God weakens me because He want me to realise humbleness. He can't lift me up if I have proud of heart. I will never thank Him for victories and deliverances if I still have my own fortress. This is why I have been keeping praying 'break my walls'. He's gonna reconstruct me"
+            "prayer": "Father, I repented that I forced You to respond to my fresh. Do it as Your will, Lord. I won't ask You to bless my wishes but I rather want to see Your will and get anointed. Come visit me just like the first time You came to me",
+            "marriage":"",
+            "career": "",
+            "calling": "Mark me sth where I will know it is from You who is with me",
+            "prophecy": "prepare me an empty glass to receive a water of blessings from Father. Purify my heart, Lord"
+        },
+        "noon": {
+            "marriage": "It doesn't matter if there is anyone welcome my love. God will never deny or forsake my love. Let them deny for God is filling me in. This overflowing love is grace for them. All I need to do is to keep pouring out my love on Him and extend this love to those surround me that they may also receive",
+            "career": "",
+            "calling": "use me, my identity, my calling, and my uniqueness to serve the greater purpose than I am. Father, I came half way through, so use my another half to serve You. All for You"
+        },
+        "night":{
+            "marriage": "overall prayers",
+            "career": "overall prayers",
+            "calling": "overall prayers",
+        }
+    },
+    "14-NOV-21":{
+        "morning": {
+            "marriage": "know Your will on Your time",
+            "career": "",
+            "calling": "protect my prophetic ministry"
         },
         "noon": {
              "marriage": "",
@@ -69,7 +139,7 @@
             "career": "",
             "calling": "",
         }
-    },
+    }
 }
 ```
 `Matt 21:22`, whatever you ask in prayer you will receive if you have faith
